@@ -1,0 +1,12 @@
+.vs/
+*.user
+*.suo
+*.userosscache
+bin/
+obj/
+packages/
+.vscode/
+.idea/
+*.nupkg
+TestResults/
+Thumbs.db
